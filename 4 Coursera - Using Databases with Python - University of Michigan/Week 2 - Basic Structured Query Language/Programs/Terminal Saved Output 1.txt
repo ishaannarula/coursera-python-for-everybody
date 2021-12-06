@@ -1,0 +1,7217 @@
+Last login: Fri Oct 23 13:55:25 on ttys000
+in@Ishaans-MacBook-Pro ~ % pwd
+/Users/in
+in@Ishaans-MacBook-Pro ~ % cd 'Google Drive File Stream/My Drive/Personal Development/Online Courses/Coursera/Coursera - Python for Everybody Specialisation - University of Michigan/4 Coursera - Using Databases with Python - University of Michigan/Week 2 - Basic Structured Query Language/Programs'
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'tnguyen@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'aaronz@vt.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'csev@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'csev@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'knoop@umich.edu']
+['From:', 'knoop@umich.edu']
+['From:', 'knoop@umich.edu']
+['From:', 'knoop@umich.edu']
+['From:', 'knoop@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'bkirschn@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'dlhaines@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'hu2@iupui.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'hu2@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'tnguyen@iupui.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'arwhyte@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'josrodri@iupui.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'dlhaines@umich.edu']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gbhatnag@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'tnguyen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'tnguyen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'tnguyen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'lance@indiana.edu']
+['From:', 'lance@indiana.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'lance@indiana.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'lance@indiana.edu']
+['From:', 'lance@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'ssmail@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'jlrenfro@ucdavis.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'nuno@ufp.pt']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'nuno@ufp.pt']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'nuno@ufp.pt']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'stephen.marquard@uct.ac.za']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'tnguyen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'mmmay@indiana.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'lance@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'cwen@iupui.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'jimeng@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ssmail@indiana.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'gbhatnag@umich.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gbhatnag@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'jimeng@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'jimeng@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'jimeng@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'jleasia@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'dlhaines@umich.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'dlhaines@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ssmail@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ssmail@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'stuart.freeman@et.gatech.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'aaronz@vt.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'lance@indiana.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'ggolden@umich.edu']
+['From:', 'ggolden@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ggolden@umich.edu']
+['From:', 'ggolden@umich.edu']
+['From:', 'ggolden@umich.edu']
+['From:', 'ggolden@umich.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'ssmail@indiana.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'aaronz@vt.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'mmmay@indiana.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'lance@indiana.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'thoppaymallika@fhda.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'zqian@umich.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'jimeng@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'bkirschn@umich.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'zqian@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'zqian@umich.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'josrodri@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'hu2@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'aaronz@vt.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'nuno@ufp.pt']
+['From:', 'arwhyte@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'arwhyte@umich.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'ggolden@umich.edu']
+['From:', 'antranig@caret.cam.ac.uk']
+['From:', 'ggolden@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'gopal.ramasammycook@gmail.com']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'hu2@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'csev@umich.edu']
+['From:', 'josrodri@iupui.edu']
+['From:', 'csev@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'bahollad@indiana.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'csev@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'nuno@ufp.pt']
+['From:', 'nuno@ufp.pt']
+['From:', 'mmmay@indiana.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'zqian@umich.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'jimeng@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'ostermmg@whitman.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'hu2@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'zqian@umich.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'cwen@iupui.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'bahollad@indiana.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'sgithens@caret.cam.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'zqian@umich.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'john.ellis@rsmart.com']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'nuno@ufp.pt']
+['From:', 'kimsooil@bu.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'jleasia@umich.edu']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'mmmay@indiana.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'hu2@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'kimsooil@bu.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'hu2@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'gsilver@umich.edu']
+['From:', 'mbreuker@loi.nl']
+['From:', 'mbreuker@loi.nl']
+['From:', 'mbreuker@loi.nl']
+['From:', 'mbreuker@loi.nl']
+['From:', 'mbreuker@loi.nl']
+['From:', 'mbreuker@loi.nl']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'a.fish@lancaster.ac.uk']
+['From:', 'dlhaines@umich.edu']
+['From:', 'mbreuker@loi.nl']
+['From:', 'david.horwitz@uct.ac.za']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'jimeng@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'colin.clark@utoronto.ca']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'wagnermr@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'bahollad@indiana.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'bahollad@indiana.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'mbreuker@loi.nl']
+['From:', 'zqian@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'louis@media.berkeley.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'bkirschn@umich.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ray@media.berkeley.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'mbreuker@loi.nl']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'dlhaines@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'gjthomas@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'cwen@iupui.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'gsilver@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'ajpoland@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'rjlowe@iupui.edu']
+['From:', 'dlhaines@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'ktsao@stanford.edu']
+['From:', 'ian@caret.cam.ac.uk']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'zqian@umich.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'aaronz@vt.edu']
+['From:', 'jzaremba@unicon.net']
+['From:', 'dlhaines@umich.edu']
+['From:', 'chmaurer@iupui.edu']
+['From:', 'zach.thomas@txstate.edu']
+['From:', 'dlhaines@umich.edu']
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+stephen.marquard@uct.ac.za
+louis@media.berkeley.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+gsilver@umich.edu
+gsilver@umich.edu
+zqian@umich.edu
+gsilver@umich.edu
+wagnermr@iupui.edu
+zqian@umich.edu
+antranig@caret.cam.ac.uk
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+stephen.marquard@uct.ac.za
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+ray@media.berkeley.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+ray@media.berkeley.edu
+cwen@iupui.edu
+zqian@umich.edu
+cwen@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+mmmay@indiana.edu
+cwen@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+cwen@iupui.edu
+zqian@umich.edu
+cwen@iupui.edu
+ray@media.berkeley.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+cwen@iupui.edu
+zqian@umich.edu
+gopal.ramasammycook@gmail.com
+gsilver@umich.edu
+gsilver@umich.edu
+stuart.freeman@et.gatech.edu
+zqian@umich.edu
+gsilver@umich.edu
+gsilver@umich.edu
+gsilver@umich.edu
+zqian@umich.edu
+wagnermr@iupui.edu
+stuart.freeman@et.gatech.edu
+tnguyen@iupui.edu
+stuart.freeman@et.gatech.edu
+wagnermr@iupui.edu
+gopal.ramasammycook@gmail.com
+ray@media.berkeley.edu
+ray@media.berkeley.edu
+zqian@umich.edu
+wagnermr@iupui.edu
+stuart.freeman@et.gatech.edu
+chmaurer@iupui.edu
+stuart.freeman@et.gatech.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+aaronz@vt.edu
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+wagnermr@iupui.edu
+csev@umich.edu
+csev@umich.edu
+csev@umich.edu
+rjlowe@iupui.edu
+jimeng@umich.edu
+csev@umich.edu
+csev@umich.edu
+gsilver@umich.edu
+ian@caret.cam.ac.uk
+csev@umich.edu
+csev@umich.edu
+csev@umich.edu
+josrodri@iupui.edu
+josrodri@iupui.edu
+csev@umich.edu
+ian@caret.cam.ac.uk
+csev@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+knoop@umich.edu
+knoop@umich.edu
+knoop@umich.edu
+knoop@umich.edu
+knoop@umich.edu
+cwen@iupui.edu
+jimeng@umich.edu
+jimeng@umich.edu
+csev@umich.edu
+csev@umich.edu
+csev@umich.edu
+csev@umich.edu
+csev@umich.edu
+csev@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+bkirschn@umich.edu
+jimeng@umich.edu
+ian@caret.cam.ac.uk
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+ian@caret.cam.ac.uk
+jimeng@umich.edu
+jimeng@umich.edu
+ray@media.berkeley.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+stuart.freeman@et.gatech.edu
+bkirschn@umich.edu
+zqian@umich.edu
+louis@media.berkeley.edu
+dlhaines@umich.edu
+bkirschn@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+zqian@umich.edu
+bkirschn@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+bkirschn@umich.edu
+bkirschn@umich.edu
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+stephen.marquard@uct.ac.za
+david.horwitz@uct.ac.za
+bkirschn@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+dlhaines@umich.edu
+josrodri@iupui.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+hu2@iupui.edu
+louis@media.berkeley.edu
+bkirschn@umich.edu
+josrodri@iupui.edu
+louis@media.berkeley.edu
+zqian@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+josrodri@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+hu2@iupui.edu
+cwen@iupui.edu
+tnguyen@iupui.edu
+sgithens@caret.cam.ac.uk
+arwhyte@umich.edu
+rjlowe@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+zqian@umich.edu
+david.horwitz@uct.ac.za
+josrodri@iupui.edu
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+david.horwitz@uct.ac.za
+dlhaines@umich.edu
+stephen.marquard@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+zqian@umich.edu
+zqian@umich.edu
+gbhatnag@umich.edu
+dlhaines@umich.edu
+jimeng@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+ray@media.berkeley.edu
+rjlowe@iupui.edu
+jimeng@umich.edu
+wagnermr@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+wagnermr@iupui.edu
+cwen@iupui.edu
+gsilver@umich.edu
+gsilver@umich.edu
+gsilver@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+stephen.marquard@uct.ac.za
+gjthomas@iupui.edu
+dlhaines@umich.edu
+zqian@umich.edu
+cwen@iupui.edu
+jimeng@umich.edu
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+cwen@iupui.edu
+gsilver@umich.edu
+cwen@iupui.edu
+stuart.freeman@et.gatech.edu
+wagnermr@iupui.edu
+stuart.freeman@et.gatech.edu
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+louis@media.berkeley.edu
+gsilver@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+tnguyen@iupui.edu
+cwen@iupui.edu
+bkirschn@umich.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+tnguyen@iupui.edu
+cwen@iupui.edu
+tnguyen@iupui.edu
+cwen@iupui.edu
+dlhaines@umich.edu
+cwen@iupui.edu
+jimeng@umich.edu
+jimeng@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+ajpoland@iupui.edu
+josrodri@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+dlhaines@umich.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gsilver@umich.edu
+ian@caret.cam.ac.uk
+cwen@iupui.edu
+cwen@iupui.edu
+lance@indiana.edu
+lance@indiana.edu
+dlhaines@umich.edu
+lance@indiana.edu
+chmaurer@iupui.edu
+ian@caret.cam.ac.uk
+lance@indiana.edu
+lance@indiana.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+ajpoland@iupui.edu
+cwen@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+stephen.marquard@uct.ac.za
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+ian@caret.cam.ac.uk
+rjlowe@iupui.edu
+wagnermr@iupui.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+louis@media.berkeley.edu
+ian@caret.cam.ac.uk
+wagnermr@iupui.edu
+wagnermr@iupui.edu
+gsilver@umich.edu
+wagnermr@iupui.edu
+zqian@umich.edu
+wagnermr@iupui.edu
+stuart.freeman@et.gatech.edu
+cwen@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+ssmail@indiana.edu
+cwen@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+cwen@iupui.edu
+wagnermr@iupui.edu
+rjlowe@iupui.edu
+dlhaines@umich.edu
+jlrenfro@ucdavis.edu
+cwen@iupui.edu
+zqian@umich.edu
+arwhyte@umich.edu
+cwen@iupui.edu
+cwen@iupui.edu
+nuno@ufp.pt
+wagnermr@iupui.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+nuno@ufp.pt
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+cwen@iupui.edu
+cwen@iupui.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+rjlowe@iupui.edu
+wagnermr@iupui.edu
+gjthomas@iupui.edu
+nuno@ufp.pt
+wagnermr@iupui.edu
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+cwen@iupui.edu
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+arwhyte@umich.edu
+arwhyte@umich.edu
+zach.thomas@txstate.edu
+zach.thomas@txstate.edu
+zach.thomas@txstate.edu
+zach.thomas@txstate.edu
+zach.thomas@txstate.edu
+zach.thomas@txstate.edu
+zach.thomas@txstate.edu
+zach.thomas@txstate.edu
+jimeng@umich.edu
+jimeng@umich.edu
+arwhyte@umich.edu
+josrodri@iupui.edu
+arwhyte@umich.edu
+josrodri@iupui.edu
+stephen.marquard@uct.ac.za
+stephen.marquard@uct.ac.za
+gjthomas@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+gjthomas@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+cwen@iupui.edu
+tnguyen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+mmmay@indiana.edu
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+cwen@iupui.edu
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+cwen@iupui.edu
+cwen@iupui.edu
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+cwen@iupui.edu
+bkirschn@umich.edu
+ian@caret.cam.ac.uk
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+dlhaines@umich.edu
+zqian@umich.edu
+mmmay@indiana.edu
+cwen@iupui.edu
+mmmay@indiana.edu
+cwen@iupui.edu
+cwen@iupui.edu
+lance@indiana.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+josrodri@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+david.horwitz@uct.ac.za
+rjlowe@iupui.edu
+sgithens@caret.cam.ac.uk
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+ktsao@stanford.edu
+ray@media.berkeley.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+cwen@iupui.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+ostermmg@whitman.edu
+zqian@umich.edu
+zqian@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+gsilver@umich.edu
+gsilver@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+zqian@umich.edu
+zqian@umich.edu
+mmmay@indiana.edu
+zqian@umich.edu
+dlhaines@umich.edu
+gopal.ramasammycook@gmail.com
+jimeng@umich.edu
+josrodri@iupui.edu
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+nuno@ufp.pt
+wagnermr@iupui.edu
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+gopal.ramasammycook@gmail.com
+stuart.freeman@et.gatech.edu
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+jimeng@umich.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+jimeng@umich.edu
+zqian@umich.edu
+cwen@iupui.edu
+arwhyte@umich.edu
+chmaurer@iupui.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+gjthomas@iupui.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+josrodri@iupui.edu
+dlhaines@umich.edu
+jimeng@umich.edu
+dlhaines@umich.edu
+jimeng@umich.edu
+ray@media.berkeley.edu
+chmaurer@iupui.edu
+cwen@iupui.edu
+wagnermr@iupui.edu
+cwen@iupui.edu
+ssmail@indiana.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+josrodri@iupui.edu
+sgithens@caret.cam.ac.uk
+jimeng@umich.edu
+jimeng@umich.edu
+ktsao@stanford.edu
+ray@media.berkeley.edu
+ray@media.berkeley.edu
+jimeng@umich.edu
+louis@media.berkeley.edu
+ktsao@stanford.edu
+gbhatnag@umich.edu
+ktsao@stanford.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+gbhatnag@umich.edu
+dlhaines@umich.edu
+chmaurer@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+josrodri@iupui.edu
+josrodri@iupui.edu
+dlhaines@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+wagnermr@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+aaronz@vt.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+wagnermr@iupui.edu
+gjthomas@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+aaronz@vt.edu
+gjthomas@iupui.edu
+zqian@umich.edu
+josrodri@iupui.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+mmmay@indiana.edu
+chmaurer@iupui.edu
+mmmay@indiana.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+mmmay@indiana.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+ian@caret.cam.ac.uk
+zqian@umich.edu
+zqian@umich.edu
+josrodri@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+ray@media.berkeley.edu
+chmaurer@iupui.edu
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+rjlowe@iupui.edu
+ian@caret.cam.ac.uk
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+aaronz@vt.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+chmaurer@iupui.edu
+ian@caret.cam.ac.uk
+zqian@umich.edu
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+jimeng@umich.edu
+chmaurer@iupui.edu
+wagnermr@iupui.edu
+josrodri@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+josrodri@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+gopal.ramasammycook@gmail.com
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+ian@caret.cam.ac.uk
+jimeng@umich.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+david.horwitz@uct.ac.za
+gopal.ramasammycook@gmail.com
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+gopal.ramasammycook@gmail.com
+a.fish@lancaster.ac.uk
+stuart.freeman@et.gatech.edu
+stuart.freeman@et.gatech.edu
+stuart.freeman@et.gatech.edu
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+ian@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+cwen@iupui.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+david.horwitz@uct.ac.za
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+gopal.ramasammycook@gmail.com
+cwen@iupui.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+jimeng@umich.edu
+mmmay@indiana.edu
+jimeng@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+wagnermr@iupui.edu
+mmmay@indiana.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+chmaurer@iupui.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+zqian@umich.edu
+dlhaines@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+john.ellis@rsmart.com
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+stuart.freeman@et.gatech.edu
+stuart.freeman@et.gatech.edu
+zqian@umich.edu
+jleasia@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+gopal.ramasammycook@gmail.com
+dlhaines@umich.edu
+sgithens@caret.cam.ac.uk
+dlhaines@umich.edu
+aaronz@vt.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+cwen@iupui.edu
+dlhaines@umich.edu
+zqian@umich.edu
+dlhaines@umich.edu
+antranig@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+zach.thomas@txstate.edu
+dlhaines@umich.edu
+aaronz@vt.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+aaronz@vt.edu
+ssmail@indiana.edu
+zqian@umich.edu
+aaronz@vt.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ssmail@indiana.edu
+zqian@umich.edu
+stuart.freeman@et.gatech.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+stuart.freeman@et.gatech.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+ian@caret.cam.ac.uk
+dlhaines@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+gopal.ramasammycook@gmail.com
+dlhaines@umich.edu
+zqian@umich.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+john.ellis@rsmart.com
+john.ellis@rsmart.com
+aaronz@vt.edu
+cwen@iupui.edu
+zqian@umich.edu
+wagnermr@iupui.edu
+aaronz@vt.edu
+wagnermr@iupui.edu
+gopal.ramasammycook@gmail.com
+lance@indiana.edu
+sgithens@caret.cam.ac.uk
+ggolden@umich.edu
+ggolden@umich.edu
+cwen@iupui.edu
+ggolden@umich.edu
+ggolden@umich.edu
+ggolden@umich.edu
+ggolden@umich.edu
+david.horwitz@uct.ac.za
+antranig@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+antranig@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+david.horwitz@uct.ac.za
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+ian@caret.cam.ac.uk
+gopal.ramasammycook@gmail.com
+ian@caret.cam.ac.uk
+david.horwitz@uct.ac.za
+gopal.ramasammycook@gmail.com
+antranig@caret.cam.ac.uk
+arwhyte@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ray@media.berkeley.edu
+ktsao@stanford.edu
+sgithens@caret.cam.ac.uk
+zqian@umich.edu
+cwen@iupui.edu
+antranig@caret.cam.ac.uk
+zqian@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+antranig@caret.cam.ac.uk
+antranig@caret.cam.ac.uk
+ssmail@indiana.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+zqian@umich.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+zqian@umich.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+mmmay@indiana.edu
+gopal.ramasammycook@gmail.com
+aaronz@vt.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+ian@caret.cam.ac.uk
+mmmay@indiana.edu
+jimeng@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+lance@indiana.edu
+sgithens@caret.cam.ac.uk
+aaronz@vt.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+john.ellis@rsmart.com
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+ktsao@stanford.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+cwen@iupui.edu
+mmmay@indiana.edu
+zqian@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+thoppaymallika@fhda.edu
+chmaurer@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+chmaurer@iupui.edu
+sgithens@caret.cam.ac.uk
+chmaurer@iupui.edu
+gsilver@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+sgithens@caret.cam.ac.uk
+david.horwitz@uct.ac.za
+zqian@umich.edu
+sgithens@caret.cam.ac.uk
+ajpoland@iupui.edu
+cwen@iupui.edu
+gsilver@umich.edu
+sgithens@caret.cam.ac.uk
+jimeng@umich.edu
+zqian@umich.edu
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+bkirschn@umich.edu
+antranig@caret.cam.ac.uk
+antranig@caret.cam.ac.uk
+zqian@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+gopal.ramasammycook@gmail.com
+zqian@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+john.ellis@rsmart.com
+ajpoland@iupui.edu
+chmaurer@iupui.edu
+antranig@caret.cam.ac.uk
+antranig@caret.cam.ac.uk
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+antranig@caret.cam.ac.uk
+zqian@umich.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+gopal.ramasammycook@gmail.com
+zqian@umich.edu
+kimsooil@bu.edu
+kimsooil@bu.edu
+kimsooil@bu.edu
+zqian@umich.edu
+ostermmg@whitman.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+zqian@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+jimeng@umich.edu
+ray@media.berkeley.edu
+ostermmg@whitman.edu
+josrodri@iupui.edu
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+rjlowe@iupui.edu
+antranig@caret.cam.ac.uk
+antranig@caret.cam.ac.uk
+josrodri@iupui.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+ian@caret.cam.ac.uk
+antranig@caret.cam.ac.uk
+zqian@umich.edu
+wagnermr@iupui.edu
+gsilver@umich.edu
+gopal.ramasammycook@gmail.com
+ajpoland@iupui.edu
+wagnermr@iupui.edu
+wagnermr@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+ajpoland@iupui.edu
+wagnermr@iupui.edu
+wagnermr@iupui.edu
+david.horwitz@uct.ac.za
+ray@media.berkeley.edu
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+ajpoland@iupui.edu
+ostermmg@whitman.edu
+cwen@iupui.edu
+jimeng@umich.edu
+josrodri@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+aaronz@vt.edu
+aaronz@vt.edu
+wagnermr@iupui.edu
+hu2@iupui.edu
+josrodri@iupui.edu
+wagnermr@iupui.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+ian@caret.cam.ac.uk
+ajpoland@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+jimeng@umich.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+rjlowe@iupui.edu
+jimeng@umich.edu
+sgithens@caret.cam.ac.uk
+sgithens@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+ray@media.berkeley.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+cwen@iupui.edu
+bkirschn@umich.edu
+gsilver@umich.edu
+john.ellis@rsmart.com
+aaronz@vt.edu
+bkirschn@umich.edu
+gopal.ramasammycook@gmail.com
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+ajpoland@iupui.edu
+aaronz@vt.edu
+sgithens@caret.cam.ac.uk
+aaronz@vt.edu
+jimeng@umich.edu
+ostermmg@whitman.edu
+ostermmg@whitman.edu
+jimeng@umich.edu
+aaronz@vt.edu
+aaronz@vt.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+sgithens@caret.cam.ac.uk
+dlhaines@umich.edu
+dlhaines@umich.edu
+gopal.ramasammycook@gmail.com
+zqian@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+dlhaines@umich.edu
+wagnermr@iupui.edu
+aaronz@vt.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+wagnermr@iupui.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+zqian@umich.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+kimsooil@bu.edu
+kimsooil@bu.edu
+aaronz@vt.edu
+nuno@ufp.pt
+arwhyte@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+ajpoland@iupui.edu
+mmmay@indiana.edu
+zqian@umich.edu
+mmmay@indiana.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+ajpoland@iupui.edu
+wagnermr@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+sgithens@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+josrodri@iupui.edu
+josrodri@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+josrodri@iupui.edu
+zqian@umich.edu
+arwhyte@umich.edu
+rjlowe@iupui.edu
+dlhaines@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+arwhyte@umich.edu
+wagnermr@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+mmmay@indiana.edu
+josrodri@iupui.edu
+gjthomas@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+sgithens@caret.cam.ac.uk
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+ray@media.berkeley.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+david.horwitz@uct.ac.za
+antranig@caret.cam.ac.uk
+ggolden@umich.edu
+antranig@caret.cam.ac.uk
+ggolden@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+david.horwitz@uct.ac.za
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+wagnermr@iupui.edu
+rjlowe@iupui.edu
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+zqian@umich.edu
+zqian@umich.edu
+ian@caret.cam.ac.uk
+ray@media.berkeley.edu
+hu2@iupui.edu
+mmmay@indiana.edu
+bkirschn@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+ray@media.berkeley.edu
+ray@media.berkeley.edu
+zqian@umich.edu
+zqian@umich.edu
+csev@umich.edu
+josrodri@iupui.edu
+csev@umich.edu
+zqian@umich.edu
+bahollad@indiana.edu
+aaronz@vt.edu
+jzaremba@unicon.net
+ajpoland@iupui.edu
+aaronz@vt.edu
+csev@umich.edu
+rjlowe@iupui.edu
+nuno@ufp.pt
+nuno@ufp.pt
+mmmay@indiana.edu
+bkirschn@umich.edu
+jimeng@umich.edu
+bkirschn@umich.edu
+bkirschn@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+aaronz@vt.edu
+john.ellis@rsmart.com
+zqian@umich.edu
+jzaremba@unicon.net
+jimeng@umich.edu
+bkirschn@umich.edu
+bkirschn@umich.edu
+bkirschn@umich.edu
+bkirschn@umich.edu
+zqian@umich.edu
+ktsao@stanford.edu
+mmmay@indiana.edu
+dlhaines@umich.edu
+zqian@umich.edu
+dlhaines@umich.edu
+bkirschn@umich.edu
+zqian@umich.edu
+bkirschn@umich.edu
+ray@media.berkeley.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+zach.thomas@txstate.edu
+ostermmg@whitman.edu
+bkirschn@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+wagnermr@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+zach.thomas@txstate.edu
+wagnermr@iupui.edu
+gsilver@umich.edu
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+hu2@iupui.edu
+ajpoland@iupui.edu
+wagnermr@iupui.edu
+david.horwitz@uct.ac.za
+zqian@umich.edu
+jzaremba@unicon.net
+cwen@iupui.edu
+ktsao@stanford.edu
+bahollad@indiana.edu
+zach.thomas@txstate.edu
+cwen@iupui.edu
+ajpoland@iupui.edu
+wagnermr@iupui.edu
+wagnermr@iupui.edu
+aaronz@vt.edu
+sgithens@caret.cam.ac.uk
+a.fish@lancaster.ac.uk
+aaronz@vt.edu
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+zqian@umich.edu
+jzaremba@unicon.net
+zach.thomas@txstate.edu
+jzaremba@unicon.net
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+john.ellis@rsmart.com
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+chmaurer@iupui.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+kimsooil@bu.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+zqian@umich.edu
+kimsooil@bu.edu
+nuno@ufp.pt
+kimsooil@bu.edu
+ajpoland@iupui.edu
+chmaurer@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+ajpoland@iupui.edu
+dlhaines@umich.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+wagnermr@iupui.edu
+david.horwitz@uct.ac.za
+jleasia@umich.edu
+david.horwitz@uct.ac.za
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+cwen@iupui.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+kimsooil@bu.edu
+mmmay@indiana.edu
+zqian@umich.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+mmmay@indiana.edu
+kimsooil@bu.edu
+aaronz@vt.edu
+dlhaines@umich.edu
+zqian@umich.edu
+mmmay@indiana.edu
+dlhaines@umich.edu
+cwen@iupui.edu
+kimsooil@bu.edu
+kimsooil@bu.edu
+kimsooil@bu.edu
+hu2@iupui.edu
+zqian@umich.edu
+kimsooil@bu.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+rjlowe@iupui.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+hu2@iupui.edu
+dlhaines@umich.edu
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+gsilver@umich.edu
+mbreuker@loi.nl
+mbreuker@loi.nl
+mbreuker@loi.nl
+mbreuker@loi.nl
+mbreuker@loi.nl
+mbreuker@loi.nl
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+a.fish@lancaster.ac.uk
+dlhaines@umich.edu
+mbreuker@loi.nl
+david.horwitz@uct.ac.za
+zach.thomas@txstate.edu
+jimeng@umich.edu
+zqian@umich.edu
+jzaremba@unicon.net
+colin.clark@utoronto.ca
+ray@media.berkeley.edu
+ray@media.berkeley.edu
+ray@media.berkeley.edu
+ray@media.berkeley.edu
+louis@media.berkeley.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+ajpoland@iupui.edu
+wagnermr@iupui.edu
+zqian@umich.edu
+ktsao@stanford.edu
+ray@media.berkeley.edu
+aaronz@vt.edu
+zqian@umich.edu
+aaronz@vt.edu
+bahollad@indiana.edu
+aaronz@vt.edu
+zqian@umich.edu
+ray@media.berkeley.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+bahollad@indiana.edu
+ray@media.berkeley.edu
+zqian@umich.edu
+zqian@umich.edu
+louis@media.berkeley.edu
+zqian@umich.edu
+ray@media.berkeley.edu
+jzaremba@unicon.net
+louis@media.berkeley.edu
+rjlowe@iupui.edu
+ajpoland@iupui.edu
+ray@media.berkeley.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+ray@media.berkeley.edu
+zqian@umich.edu
+bkirschn@umich.edu
+mbreuker@loi.nl
+zqian@umich.edu
+gsilver@umich.edu
+louis@media.berkeley.edu
+bkirschn@umich.edu
+bkirschn@umich.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+zach.thomas@txstate.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ray@media.berkeley.edu
+ktsao@stanford.edu
+zqian@umich.edu
+ian@caret.cam.ac.uk
+chmaurer@iupui.edu
+ian@caret.cam.ac.uk
+gjthomas@iupui.edu
+gjthomas@iupui.edu
+aaronz@vt.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+zqian@umich.edu
+aaronz@vt.edu
+aaronz@vt.edu
+mbreuker@loi.nl
+ian@caret.cam.ac.uk
+zqian@umich.edu
+zqian@umich.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+dlhaines@umich.edu
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+ian@caret.cam.ac.uk
+zqian@umich.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+chmaurer@iupui.edu
+chmaurer@iupui.edu
+zqian@umich.edu
+gjthomas@iupui.edu
+gsilver@umich.edu
+ian@caret.cam.ac.uk
+ajpoland@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+zach.thomas@txstate.edu
+ajpoland@iupui.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+gjthomas@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+dlhaines@umich.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+aaronz@vt.edu
+aaronz@vt.edu
+cwen@iupui.edu
+ktsao@stanford.edu
+aaronz@vt.edu
+aaronz@vt.edu
+gsilver@umich.edu
+gsilver@umich.edu
+zqian@umich.edu
+jzaremba@unicon.net
+aaronz@vt.edu
+aaronz@vt.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+dlhaines@umich.edu
+ajpoland@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+rjlowe@iupui.edu
+dlhaines@umich.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+aaronz@vt.edu
+ian@caret.cam.ac.uk
+aaronz@vt.edu
+aaronz@vt.edu
+ktsao@stanford.edu
+ian@caret.cam.ac.uk
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+zqian@umich.edu
+aaronz@vt.edu
+aaronz@vt.edu
+jzaremba@unicon.net
+dlhaines@umich.edu
+chmaurer@iupui.edu
+zach.thomas@txstate.edu
+dlhaines@umich.edu
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+['stephen.marquard', 'uct.ac.za']
+['louis', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['zqian', 'umich.edu']
+['gsilver', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['zqian', 'umich.edu']
+['antranig', 'caret.cam.ac.uk']
+['gopal.ramasammycook', 'gmail.com']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['ray', 'media.berkeley.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ray', 'media.berkeley.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['ray', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['stuart.freeman', 'et.gatech.edu']
+['zqian', 'umich.edu']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['zqian', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['tnguyen', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['wagnermr', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['ray', 'media.berkeley.edu']
+['ray', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['chmaurer', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['rjlowe', 'iupui.edu']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['aaronz', 'vt.edu']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['gopal.ramasammycook', 'gmail.com']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['jimeng', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['gsilver', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['josrodri', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['csev', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['csev', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['knoop', 'umich.edu']
+['knoop', 'umich.edu']
+['knoop', 'umich.edu']
+['knoop', 'umich.edu']
+['knoop', 'umich.edu']
+['cwen', 'iupui.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['csev', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['bkirschn', 'umich.edu']
+['jimeng', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['ian', 'caret.cam.ac.uk']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['ray', 'media.berkeley.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['stuart.freeman', 'et.gatech.edu']
+['bkirschn', 'umich.edu']
+['zqian', 'umich.edu']
+['louis', 'media.berkeley.edu']
+['dlhaines', 'umich.edu']
+['bkirschn', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['bkirschn', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['bkirschn', 'umich.edu']
+['bkirschn', 'umich.edu']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['bkirschn', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['dlhaines', 'umich.edu']
+['josrodri', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['hu2', 'iupui.edu']
+['louis', 'media.berkeley.edu']
+['bkirschn', 'umich.edu']
+['josrodri', 'iupui.edu']
+['louis', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['hu2', 'iupui.edu']
+['cwen', 'iupui.edu']
+['tnguyen', 'iupui.edu']
+['sgithens', 'caret.cam.ac.uk']
+['arwhyte', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['david.horwitz', 'uct.ac.za']
+['josrodri', 'iupui.edu']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['david.horwitz', 'uct.ac.za']
+['dlhaines', 'umich.edu']
+['stephen.marquard', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['gbhatnag', 'umich.edu']
+['dlhaines', 'umich.edu']
+['jimeng', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ray', 'media.berkeley.edu']
+['rjlowe', 'iupui.edu']
+['jimeng', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['cwen', 'iupui.edu']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['stephen.marquard', 'uct.ac.za']
+['gjthomas', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['jimeng', 'umich.edu']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['cwen', 'iupui.edu']
+['gsilver', 'umich.edu']
+['cwen', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['wagnermr', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['louis', 'media.berkeley.edu']
+['gsilver', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['tnguyen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['bkirschn', 'umich.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['tnguyen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['tnguyen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['cwen', 'iupui.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gsilver', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['lance', 'indiana.edu']
+['lance', 'indiana.edu']
+['dlhaines', 'umich.edu']
+['lance', 'indiana.edu']
+['chmaurer', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['lance', 'indiana.edu']
+['lance', 'indiana.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['cwen', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['stephen.marquard', 'uct.ac.za']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['ian', 'caret.cam.ac.uk']
+['rjlowe', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['louis', 'media.berkeley.edu']
+['ian', 'caret.cam.ac.uk']
+['wagnermr', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['gsilver', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['zqian', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['cwen', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['ssmail', 'indiana.edu']
+['cwen', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['cwen', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['jlrenfro', 'ucdavis.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['arwhyte', 'umich.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['nuno', 'ufp.pt']
+['wagnermr', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['nuno', 'ufp.pt']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['nuno', 'ufp.pt']
+['wagnermr', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['zach.thomas', 'txstate.edu']
+['zach.thomas', 'txstate.edu']
+['zach.thomas', 'txstate.edu']
+['zach.thomas', 'txstate.edu']
+['zach.thomas', 'txstate.edu']
+['zach.thomas', 'txstate.edu']
+['zach.thomas', 'txstate.edu']
+['zach.thomas', 'txstate.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['arwhyte', 'umich.edu']
+['josrodri', 'iupui.edu']
+['arwhyte', 'umich.edu']
+['josrodri', 'iupui.edu']
+['stephen.marquard', 'uct.ac.za']
+['stephen.marquard', 'uct.ac.za']
+['gjthomas', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['cwen', 'iupui.edu']
+['tnguyen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['mmmay', 'indiana.edu']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['cwen', 'iupui.edu']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['cwen', 'iupui.edu']
+['bkirschn', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['cwen', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['lance', 'indiana.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['rjlowe', 'iupui.edu']
+['sgithens', 'caret.cam.ac.uk']
+['louis', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['ktsao', 'stanford.edu']
+['ray', 'media.berkeley.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['cwen', 'iupui.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['ostermmg', 'whitman.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['dlhaines', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['jimeng', 'umich.edu']
+['josrodri', 'iupui.edu']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['wagnermr', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['gopal.ramasammycook', 'gmail.com']
+['stuart.freeman', 'et.gatech.edu']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['jimeng', 'umich.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['jimeng', 'umich.edu']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['arwhyte', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['josrodri', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['jimeng', 'umich.edu']
+['dlhaines', 'umich.edu']
+['jimeng', 'umich.edu']
+['ray', 'media.berkeley.edu']
+['chmaurer', 'iupui.edu']
+['cwen', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ssmail', 'indiana.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['sgithens', 'caret.cam.ac.uk']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['ktsao', 'stanford.edu']
+['ray', 'media.berkeley.edu']
+['ray', 'media.berkeley.edu']
+['jimeng', 'umich.edu']
+['louis', 'media.berkeley.edu']
+['ktsao', 'stanford.edu']
+['gbhatnag', 'umich.edu']
+['ktsao', 'stanford.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['gbhatnag', 'umich.edu']
+['dlhaines', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['aaronz', 'vt.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['aaronz', 'vt.edu']
+['gjthomas', 'iupui.edu']
+['zqian', 'umich.edu']
+['josrodri', 'iupui.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['chmaurer', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['josrodri', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['ray', 'media.berkeley.edu']
+['chmaurer', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['rjlowe', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['aaronz', 'vt.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['chmaurer', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['jimeng', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['josrodri', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['ian', 'caret.cam.ac.uk']
+['jimeng', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['gopal.ramasammycook', 'gmail.com']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['a.fish', 'lancaster.ac.uk']
+['stuart.freeman', 'et.gatech.edu']
+['stuart.freeman', 'et.gatech.edu']
+['stuart.freeman', 'et.gatech.edu']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['ian', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['cwen', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['jimeng', 'umich.edu']
+['mmmay', 'indiana.edu']
+['jimeng', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['wagnermr', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['john.ellis', 'rsmart.com']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['stuart.freeman', 'et.gatech.edu']
+['stuart.freeman', 'et.gatech.edu']
+['zqian', 'umich.edu']
+['jleasia', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['dlhaines', 'umich.edu']
+['sgithens', 'caret.cam.ac.uk']
+['dlhaines', 'umich.edu']
+['aaronz', 'vt.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['cwen', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['dlhaines', 'umich.edu']
+['antranig', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['zach.thomas', 'txstate.edu']
+['dlhaines', 'umich.edu']
+['aaronz', 'vt.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['aaronz', 'vt.edu']
+['ssmail', 'indiana.edu']
+['zqian', 'umich.edu']
+['aaronz', 'vt.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ssmail', 'indiana.edu']
+['zqian', 'umich.edu']
+['stuart.freeman', 'et.gatech.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['stuart.freeman', 'et.gatech.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['cwen', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['john.ellis', 'rsmart.com']
+['john.ellis', 'rsmart.com']
+['aaronz', 'vt.edu']
+['cwen', 'iupui.edu']
+['zqian', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['aaronz', 'vt.edu']
+['wagnermr', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['lance', 'indiana.edu']
+['sgithens', 'caret.cam.ac.uk']
+['ggolden', 'umich.edu']
+['ggolden', 'umich.edu']
+['cwen', 'iupui.edu']
+['ggolden', 'umich.edu']
+['ggolden', 'umich.edu']
+['ggolden', 'umich.edu']
+['ggolden', 'umich.edu']
+['david.horwitz', 'uct.ac.za']
+['antranig', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['antranig', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['david.horwitz', 'uct.ac.za']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['gopal.ramasammycook', 'gmail.com']
+['ian', 'caret.cam.ac.uk']
+['david.horwitz', 'uct.ac.za']
+['gopal.ramasammycook', 'gmail.com']
+['antranig', 'caret.cam.ac.uk']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ray', 'media.berkeley.edu']
+['ktsao', 'stanford.edu']
+['sgithens', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['cwen', 'iupui.edu']
+['antranig', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['antranig', 'caret.cam.ac.uk']
+['antranig', 'caret.cam.ac.uk']
+['ssmail', 'indiana.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['mmmay', 'indiana.edu']
+['gopal.ramasammycook', 'gmail.com']
+['aaronz', 'vt.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['ian', 'caret.cam.ac.uk']
+['mmmay', 'indiana.edu']
+['jimeng', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['lance', 'indiana.edu']
+['sgithens', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['john.ellis', 'rsmart.com']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['ktsao', 'stanford.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['cwen', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['thoppaymallika', 'fhda.edu']
+['chmaurer', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['chmaurer', 'iupui.edu']
+['sgithens', 'caret.cam.ac.uk']
+['chmaurer', 'iupui.edu']
+['gsilver', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['sgithens', 'caret.cam.ac.uk']
+['david.horwitz', 'uct.ac.za']
+['zqian', 'umich.edu']
+['sgithens', 'caret.cam.ac.uk']
+['ajpoland', 'iupui.edu']
+['cwen', 'iupui.edu']
+['gsilver', 'umich.edu']
+['sgithens', 'caret.cam.ac.uk']
+['jimeng', 'umich.edu']
+['zqian', 'umich.edu']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['bkirschn', 'umich.edu']
+['antranig', 'caret.cam.ac.uk']
+['antranig', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['zqian', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['john.ellis', 'rsmart.com']
+['ajpoland', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['antranig', 'caret.cam.ac.uk']
+['antranig', 'caret.cam.ac.uk']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['zqian', 'umich.edu']
+['antranig', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['zqian', 'umich.edu']
+['kimsooil', 'bu.edu']
+['kimsooil', 'bu.edu']
+['kimsooil', 'bu.edu']
+['zqian', 'umich.edu']
+['ostermmg', 'whitman.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['zqian', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['jimeng', 'umich.edu']
+['ray', 'media.berkeley.edu']
+['ostermmg', 'whitman.edu']
+['josrodri', 'iupui.edu']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['rjlowe', 'iupui.edu']
+['antranig', 'caret.cam.ac.uk']
+['antranig', 'caret.cam.ac.uk']
+['josrodri', 'iupui.edu']
+['zqian', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['antranig', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['gsilver', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['ajpoland', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['ajpoland', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['ray', 'media.berkeley.edu']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['ajpoland', 'iupui.edu']
+['ostermmg', 'whitman.edu']
+['cwen', 'iupui.edu']
+['jimeng', 'umich.edu']
+['josrodri', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['wagnermr', 'iupui.edu']
+['hu2', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['ian', 'caret.cam.ac.uk']
+['ajpoland', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['jimeng', 'umich.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['rjlowe', 'iupui.edu']
+['jimeng', 'umich.edu']
+['sgithens', 'caret.cam.ac.uk']
+['sgithens', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['ray', 'media.berkeley.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['cwen', 'iupui.edu']
+['bkirschn', 'umich.edu']
+['gsilver', 'umich.edu']
+['john.ellis', 'rsmart.com']
+['aaronz', 'vt.edu']
+['bkirschn', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['ajpoland', 'iupui.edu']
+['aaronz', 'vt.edu']
+['sgithens', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['jimeng', 'umich.edu']
+['ostermmg', 'whitman.edu']
+['ostermmg', 'whitman.edu']
+['jimeng', 'umich.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['sgithens', 'caret.cam.ac.uk']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['gopal.ramasammycook', 'gmail.com']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['aaronz', 'vt.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['zqian', 'umich.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['kimsooil', 'bu.edu']
+['kimsooil', 'bu.edu']
+['aaronz', 'vt.edu']
+['nuno', 'ufp.pt']
+['arwhyte', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['ajpoland', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['ajpoland', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['sgithens', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['josrodri', 'iupui.edu']
+['josrodri', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['josrodri', 'iupui.edu']
+['zqian', 'umich.edu']
+['arwhyte', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['arwhyte', 'umich.edu']
+['wagnermr', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['josrodri', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['sgithens', 'caret.cam.ac.uk']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['ray', 'media.berkeley.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['david.horwitz', 'uct.ac.za']
+['antranig', 'caret.cam.ac.uk']
+['ggolden', 'umich.edu']
+['antranig', 'caret.cam.ac.uk']
+['ggolden', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['david.horwitz', 'uct.ac.za']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['wagnermr', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['gopal.ramasammycook', 'gmail.com']
+['david.horwitz', 'uct.ac.za']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['ray', 'media.berkeley.edu']
+['hu2', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['bkirschn', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['ray', 'media.berkeley.edu']
+['ray', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['csev', 'umich.edu']
+['josrodri', 'iupui.edu']
+['csev', 'umich.edu']
+['zqian', 'umich.edu']
+['bahollad', 'indiana.edu']
+['aaronz', 'vt.edu']
+['jzaremba', 'unicon.net']
+['ajpoland', 'iupui.edu']
+['aaronz', 'vt.edu']
+['csev', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['nuno', 'ufp.pt']
+['nuno', 'ufp.pt']
+['mmmay', 'indiana.edu']
+['bkirschn', 'umich.edu']
+['jimeng', 'umich.edu']
+['bkirschn', 'umich.edu']
+['bkirschn', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['aaronz', 'vt.edu']
+['john.ellis', 'rsmart.com']
+['zqian', 'umich.edu']
+['jzaremba', 'unicon.net']
+['jimeng', 'umich.edu']
+['bkirschn', 'umich.edu']
+['bkirschn', 'umich.edu']
+['bkirschn', 'umich.edu']
+['bkirschn', 'umich.edu']
+['zqian', 'umich.edu']
+['ktsao', 'stanford.edu']
+['mmmay', 'indiana.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['dlhaines', 'umich.edu']
+['bkirschn', 'umich.edu']
+['zqian', 'umich.edu']
+['bkirschn', 'umich.edu']
+['ray', 'media.berkeley.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['zach.thomas', 'txstate.edu']
+['ostermmg', 'whitman.edu']
+['bkirschn', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['wagnermr', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['zach.thomas', 'txstate.edu']
+['wagnermr', 'iupui.edu']
+['gsilver', 'umich.edu']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['hu2', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['zqian', 'umich.edu']
+['jzaremba', 'unicon.net']
+['cwen', 'iupui.edu']
+['ktsao', 'stanford.edu']
+['bahollad', 'indiana.edu']
+['zach.thomas', 'txstate.edu']
+['cwen', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['aaronz', 'vt.edu']
+['sgithens', 'caret.cam.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['aaronz', 'vt.edu']
+['david.horwitz', 'uct.ac.za']
+['david.horwitz', 'uct.ac.za']
+['zqian', 'umich.edu']
+['jzaremba', 'unicon.net']
+['zach.thomas', 'txstate.edu']
+['jzaremba', 'unicon.net']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['john.ellis', 'rsmart.com']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['kimsooil', 'bu.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['kimsooil', 'bu.edu']
+['nuno', 'ufp.pt']
+['kimsooil', 'bu.edu']
+['ajpoland', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['david.horwitz', 'uct.ac.za']
+['jleasia', 'umich.edu']
+['david.horwitz', 'uct.ac.za']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['cwen', 'iupui.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['kimsooil', 'bu.edu']
+['mmmay', 'indiana.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['mmmay', 'indiana.edu']
+['kimsooil', 'bu.edu']
+['aaronz', 'vt.edu']
+['dlhaines', 'umich.edu']
+['zqian', 'umich.edu']
+['mmmay', 'indiana.edu']
+['dlhaines', 'umich.edu']
+['cwen', 'iupui.edu']
+['kimsooil', 'bu.edu']
+['kimsooil', 'bu.edu']
+['kimsooil', 'bu.edu']
+['hu2', 'iupui.edu']
+['zqian', 'umich.edu']
+['kimsooil', 'bu.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['rjlowe', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['hu2', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['gsilver', 'umich.edu']
+['mbreuker', 'loi.nl']
+['mbreuker', 'loi.nl']
+['mbreuker', 'loi.nl']
+['mbreuker', 'loi.nl']
+['mbreuker', 'loi.nl']
+['mbreuker', 'loi.nl']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['a.fish', 'lancaster.ac.uk']
+['dlhaines', 'umich.edu']
+['mbreuker', 'loi.nl']
+['david.horwitz', 'uct.ac.za']
+['zach.thomas', 'txstate.edu']
+['jimeng', 'umich.edu']
+['zqian', 'umich.edu']
+['jzaremba', 'unicon.net']
+['colin.clark', 'utoronto.ca']
+['ray', 'media.berkeley.edu']
+['ray', 'media.berkeley.edu']
+['ray', 'media.berkeley.edu']
+['ray', 'media.berkeley.edu']
+['louis', 'media.berkeley.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['ajpoland', 'iupui.edu']
+['wagnermr', 'iupui.edu']
+['zqian', 'umich.edu']
+['ktsao', 'stanford.edu']
+['ray', 'media.berkeley.edu']
+['aaronz', 'vt.edu']
+['zqian', 'umich.edu']
+['aaronz', 'vt.edu']
+['bahollad', 'indiana.edu']
+['aaronz', 'vt.edu']
+['zqian', 'umich.edu']
+['ray', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['bahollad', 'indiana.edu']
+['ray', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['louis', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['ray', 'media.berkeley.edu']
+['jzaremba', 'unicon.net']
+['louis', 'media.berkeley.edu']
+['rjlowe', 'iupui.edu']
+['ajpoland', 'iupui.edu']
+['ray', 'media.berkeley.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['ray', 'media.berkeley.edu']
+['zqian', 'umich.edu']
+['bkirschn', 'umich.edu']
+['mbreuker', 'loi.nl']
+['zqian', 'umich.edu']
+['gsilver', 'umich.edu']
+['louis', 'media.berkeley.edu']
+['bkirschn', 'umich.edu']
+['bkirschn', 'umich.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['zach.thomas', 'txstate.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ray', 'media.berkeley.edu']
+['ktsao', 'stanford.edu']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['chmaurer', 'iupui.edu']
+['ian', 'caret.cam.ac.uk']
+['gjthomas', 'iupui.edu']
+['gjthomas', 'iupui.edu']
+['aaronz', 'vt.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['zqian', 'umich.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['mbreuker', 'loi.nl']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['dlhaines', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['chmaurer', 'iupui.edu']
+['zqian', 'umich.edu']
+['gjthomas', 'iupui.edu']
+['gsilver', 'umich.edu']
+['ian', 'caret.cam.ac.uk']
+['ajpoland', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['zach.thomas', 'txstate.edu']
+['ajpoland', 'iupui.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['gjthomas', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['cwen', 'iupui.edu']
+['ktsao', 'stanford.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['gsilver', 'umich.edu']
+['gsilver', 'umich.edu']
+['zqian', 'umich.edu']
+['jzaremba', 'unicon.net']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['dlhaines', 'umich.edu']
+['ajpoland', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['rjlowe', 'iupui.edu']
+['dlhaines', 'umich.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['ian', 'caret.cam.ac.uk']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['ktsao', 'stanford.edu']
+['ian', 'caret.cam.ac.uk']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['zqian', 'umich.edu']
+['aaronz', 'vt.edu']
+['aaronz', 'vt.edu']
+['jzaremba', 'unicon.net']
+['dlhaines', 'umich.edu']
+['chmaurer', 'iupui.edu']
+['zach.thomas', 'txstate.edu']
+['dlhaines', 'umich.edu']
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+uct.ac.za
+media.berkeley.edu
+umich.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+gmail.com
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+iupui.edu
+iupui.edu
+iupui.edu
+media.berkeley.edu
+iupui.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+indiana.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+iupui.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+gmail.com
+umich.edu
+umich.edu
+et.gatech.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+et.gatech.edu
+iupui.edu
+et.gatech.edu
+iupui.edu
+gmail.com
+media.berkeley.edu
+media.berkeley.edu
+umich.edu
+iupui.edu
+et.gatech.edu
+iupui.edu
+et.gatech.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+vt.edu
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+gmail.com
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+uct.ac.za
+uct.ac.za
+caret.cam.ac.uk
+umich.edu
+umich.edu
+media.berkeley.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+et.gatech.edu
+umich.edu
+umich.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+media.berkeley.edu
+umich.edu
+iupui.edu
+media.berkeley.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+uct.ac.za
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+uct.ac.za
+umich.edu
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+media.berkeley.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+lancaster.ac.uk
+lancaster.ac.uk
+iupui.edu
+umich.edu
+iupui.edu
+et.gatech.edu
+iupui.edu
+et.gatech.edu
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+media.berkeley.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+indiana.edu
+indiana.edu
+umich.edu
+indiana.edu
+iupui.edu
+caret.cam.ac.uk
+indiana.edu
+indiana.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+media.berkeley.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+umich.edu
+iupui.edu
+et.gatech.edu
+iupui.edu
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+indiana.edu
+indiana.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+ucdavis.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+ufp.pt
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+ufp.pt
+caret.cam.ac.uk
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+ufp.pt
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+umich.edu
+txstate.edu
+txstate.edu
+txstate.edu
+txstate.edu
+txstate.edu
+txstate.edu
+txstate.edu
+txstate.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+iupui.edu
+uct.ac.za
+uct.ac.za
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+indiana.edu
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+iupui.edu
+media.berkeley.edu
+media.berkeley.edu
+iupui.edu
+iupui.edu
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+indiana.edu
+iupui.edu
+indiana.edu
+iupui.edu
+iupui.edu
+indiana.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+iupui.edu
+caret.cam.ac.uk
+media.berkeley.edu
+media.berkeley.edu
+stanford.edu
+media.berkeley.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+iupui.edu
+umich.edu
+umich.edu
+whitman.edu
+umich.edu
+umich.edu
+indiana.edu
+indiana.edu
+umich.edu
+umich.edu
+indiana.edu
+indiana.edu
+umich.edu
+umich.edu
+indiana.edu
+umich.edu
+umich.edu
+gmail.com
+umich.edu
+iupui.edu
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+ufp.pt
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+gmail.com
+et.gatech.edu
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+media.berkeley.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+indiana.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+stanford.edu
+media.berkeley.edu
+media.berkeley.edu
+umich.edu
+media.berkeley.edu
+stanford.edu
+umich.edu
+stanford.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+iupui.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+indiana.edu
+iupui.edu
+indiana.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+indiana.edu
+indiana.edu
+iupui.edu
+umich.edu
+indiana.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+media.berkeley.edu
+iupui.edu
+gmail.com
+uct.ac.za
+uct.ac.za
+iupui.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+gmail.com
+uct.ac.za
+uct.ac.za
+iupui.edu
+caret.cam.ac.uk
+umich.edu
+lancaster.ac.uk
+lancaster.ac.uk
+lancaster.ac.uk
+lancaster.ac.uk
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+gmail.com
+whitman.edu
+whitman.edu
+caret.cam.ac.uk
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+gmail.com
+iupui.edu
+iupui.edu
+gmail.com
+lancaster.ac.uk
+et.gatech.edu
+et.gatech.edu
+et.gatech.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+gmail.com
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+indiana.edu
+umich.edu
+indiana.edu
+indiana.edu
+iupui.edu
+indiana.edu
+iupui.edu
+iupui.edu
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+rsmart.com
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+et.gatech.edu
+et.gatech.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+gmail.com
+umich.edu
+caret.cam.ac.uk
+umich.edu
+vt.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+txstate.edu
+umich.edu
+vt.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+vt.edu
+indiana.edu
+umich.edu
+vt.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+indiana.edu
+umich.edu
+et.gatech.edu
+umich.edu
+umich.edu
+et.gatech.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+gmail.com
+umich.edu
+umich.edu
+caret.cam.ac.uk
+vt.edu
+rsmart.com
+rsmart.com
+vt.edu
+iupui.edu
+umich.edu
+iupui.edu
+vt.edu
+iupui.edu
+gmail.com
+indiana.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+uct.ac.za
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+uct.ac.za
+caret.cam.ac.uk
+vt.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+gmail.com
+caret.cam.ac.uk
+uct.ac.za
+gmail.com
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+media.berkeley.edu
+stanford.edu
+caret.cam.ac.uk
+umich.edu
+iupui.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+indiana.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+caret.cam.ac.uk
+vt.edu
+umich.edu
+caret.cam.ac.uk
+vt.edu
+indiana.edu
+gmail.com
+vt.edu
+indiana.edu
+indiana.edu
+indiana.edu
+caret.cam.ac.uk
+indiana.edu
+umich.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+caret.cam.ac.uk
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+rsmart.com
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+stanford.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+indiana.edu
+umich.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+fhda.edu
+iupui.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+caret.cam.ac.uk
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+vt.edu
+caret.cam.ac.uk
+uct.ac.za
+umich.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+vt.edu
+vt.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+gmail.com
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+rsmart.com
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+gmail.com
+umich.edu
+bu.edu
+bu.edu
+bu.edu
+umich.edu
+whitman.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+media.berkeley.edu
+whitman.edu
+iupui.edu
+whitman.edu
+whitman.edu
+whitman.edu
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+iupui.edu
+umich.edu
+iupui.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+iupui.edu
+umich.edu
+gmail.com
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+media.berkeley.edu
+whitman.edu
+whitman.edu
+whitman.edu
+whitman.edu
+whitman.edu
+iupui.edu
+whitman.edu
+iupui.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+vt.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+gmail.com
+uct.ac.za
+uct.ac.za
+uct.ac.za
+uct.ac.za
+caret.cam.ac.uk
+iupui.edu
+vt.edu
+vt.edu
+vt.edu
+umich.edu
+vt.edu
+vt.edu
+vt.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+media.berkeley.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+rsmart.com
+vt.edu
+umich.edu
+gmail.com
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+vt.edu
+caret.cam.ac.uk
+vt.edu
+umich.edu
+whitman.edu
+whitman.edu
+umich.edu
+vt.edu
+vt.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+gmail.com
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+caret.cam.ac.uk
+vt.edu
+vt.edu
+caret.cam.ac.uk
+vt.edu
+vt.edu
+vt.edu
+umich.edu
+vt.edu
+vt.edu
+vt.edu
+bu.edu
+bu.edu
+vt.edu
+ufp.pt
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+indiana.edu
+umich.edu
+indiana.edu
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+vt.edu
+vt.edu
+iupui.edu
+iupui.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+iupui.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+indiana.edu
+iupui.edu
+iupui.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+caret.cam.ac.uk
+indiana.edu
+indiana.edu
+indiana.edu
+media.berkeley.edu
+indiana.edu
+indiana.edu
+uct.ac.za
+caret.cam.ac.uk
+umich.edu
+caret.cam.ac.uk
+umich.edu
+indiana.edu
+indiana.edu
+uct.ac.za
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+iupui.edu
+gmail.com
+uct.ac.za
+umich.edu
+umich.edu
+caret.cam.ac.uk
+media.berkeley.edu
+iupui.edu
+indiana.edu
+umich.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+umich.edu
+umich.edu
+umich.edu
+media.berkeley.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+umich.edu
+umich.edu
+indiana.edu
+vt.edu
+unicon.net
+iupui.edu
+vt.edu
+umich.edu
+iupui.edu
+ufp.pt
+ufp.pt
+indiana.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+vt.edu
+rsmart.com
+umich.edu
+unicon.net
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+stanford.edu
+indiana.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+media.berkeley.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+txstate.edu
+whitman.edu
+umich.edu
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+indiana.edu
+indiana.edu
+indiana.edu
+txstate.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+umich.edu
+unicon.net
+iupui.edu
+stanford.edu
+indiana.edu
+txstate.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+vt.edu
+caret.cam.ac.uk
+lancaster.ac.uk
+vt.edu
+uct.ac.za
+uct.ac.za
+umich.edu
+unicon.net
+txstate.edu
+unicon.net
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+rsmart.com
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+bu.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+bu.edu
+ufp.pt
+bu.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+uct.ac.za
+umich.edu
+uct.ac.za
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+iupui.edu
+indiana.edu
+indiana.edu
+indiana.edu
+bu.edu
+indiana.edu
+umich.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+indiana.edu
+bu.edu
+vt.edu
+umich.edu
+umich.edu
+indiana.edu
+umich.edu
+iupui.edu
+bu.edu
+bu.edu
+bu.edu
+iupui.edu
+umich.edu
+bu.edu
+vt.edu
+vt.edu
+vt.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+lancaster.ac.uk
+lancaster.ac.uk
+lancaster.ac.uk
+umich.edu
+loi.nl
+loi.nl
+loi.nl
+loi.nl
+loi.nl
+loi.nl
+iupui.edu
+iupui.edu
+iupui.edu
+lancaster.ac.uk
+lancaster.ac.uk
+lancaster.ac.uk
+umich.edu
+loi.nl
+uct.ac.za
+txstate.edu
+umich.edu
+umich.edu
+unicon.net
+utoronto.ca
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+stanford.edu
+media.berkeley.edu
+vt.edu
+umich.edu
+vt.edu
+indiana.edu
+vt.edu
+umich.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+umich.edu
+indiana.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+media.berkeley.edu
+umich.edu
+media.berkeley.edu
+unicon.net
+media.berkeley.edu
+iupui.edu
+iupui.edu
+media.berkeley.edu
+iupui.edu
+iupui.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+loi.nl
+umich.edu
+umich.edu
+media.berkeley.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+txstate.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+media.berkeley.edu
+stanford.edu
+umich.edu
+caret.cam.ac.uk
+iupui.edu
+caret.cam.ac.uk
+iupui.edu
+iupui.edu
+vt.edu
+caret.cam.ac.uk
+vt.edu
+vt.edu
+umich.edu
+vt.edu
+vt.edu
+loi.nl
+caret.cam.ac.uk
+umich.edu
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+caret.cam.ac.uk
+caret.cam.ac.uk
+caret.cam.ac.uk
+umich.edu
+caret.cam.ac.uk
+vt.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+umich.edu
+caret.cam.ac.uk
+iupui.edu
+vt.edu
+vt.edu
+vt.edu
+txstate.edu
+iupui.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+iupui.edu
+iupui.edu
+vt.edu
+vt.edu
+iupui.edu
+stanford.edu
+vt.edu
+vt.edu
+umich.edu
+umich.edu
+umich.edu
+unicon.net
+vt.edu
+vt.edu
+umich.edu
+umich.edu
+umich.edu
+iupui.edu
+iupui.edu
+iupui.edu
+iupui.edu
+umich.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+vt.edu
+caret.cam.ac.uk
+vt.edu
+vt.edu
+stanford.edu
+caret.cam.ac.uk
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+umich.edu
+vt.edu
+vt.edu
+unicon.net
+umich.edu
+iupui.edu
+txstate.edu
+umich.edu
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+  File "Assignment 2 Code.py", line 1
+    import sqlite 3
+                  ^
+SyntaxError: invalid syntax
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+Traceback (most recent call last):
+  File "Assignment 2 Code.py", line 3, in <module>
+    conn = sqlite.connect('Assignment 2 - Counting Organisations.sqlite')
+NameError: name 'sqlite' is not defined
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+Traceback (most recent call last):
+  File "Assignment 2 Code.py", line 3, in <module>
+    conn = sqlite.connect('Assignment 2 - Counting Organisations.db')
+NameError: name 'sqlite' is not defined
+in@Ishaans-MacBook-Pro Programs % python3 'Assignment 2 Code.py'
+Traceback (most recent call last):
+  File "Assignment 2 Code.py", line 27, in <module>
+    print(str(row[0], row[1]))
+TypeError: str() argument 2 must be str, not int
+in@Ishaans-MacBook-Pro Programs % 
